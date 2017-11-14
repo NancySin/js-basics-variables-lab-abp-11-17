@@ -1,3 +1,4 @@
 / Code your solution in this file!
- function(companyName) {'Scuber;'}
+let companyName = Scuber
+    function(companyName): {'Scuber;'}
 
